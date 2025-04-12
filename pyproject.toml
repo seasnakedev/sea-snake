@@ -19,7 +19,7 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/seasnakedev/sea-snake"
 "Contributing" = "https://github.com/seasnakedev/sea-snake/blob/main/CONTRIBUTING.md"
-"Contributor License Agreement (CLA)" = "https://github.com/seasnakedev/sea-snake/blob/main/CLA.md"
+"CLA" = "https://github.com/seasnakedev/sea-snake/blob/main/CLA.md"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
